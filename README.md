@@ -28,4 +28,4 @@
 ```
 -> 點擊 Merge pull request -> 點擊 Confirm Merge -> 點擊 Delete branch
 ```
-[markdown] :https://markdown.tw/  "Markdown"
+[markdown](https://markdown.tw/)
