@@ -8,7 +8,7 @@
 點擊 new repository -> 輸入 repository name (ex.Hello-World) 
 -> 選取 `Initialize this repository with a README` -> 點擊 create repository
 ```
-### STEP2. Started and managed a new branch(開一個新分支&合併分支)###
+### STEP2. Started and managed a new branch(開一個新分支&合併分支) ###
 ```
 點擊 Branch:Master -> 輸入 Branch name (ex.HelloWorld-edits)
 -> 點擊 Create Branch:HellWorld-edits
