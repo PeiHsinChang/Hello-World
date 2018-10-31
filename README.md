@@ -1,8 +1,6 @@
 # Hello-World
-just another repository
 
-
-Hi ~ My name is PeiHsin .I just practice GitHub:)))
+學習使用GitHub教學手冊
 
 STEP1. Created an open source repository(建立一個專案)
 ----
