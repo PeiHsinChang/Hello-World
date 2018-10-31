@@ -1,6 +1,6 @@
 # Hello-World #
 
-學習使用[GitHub](https://guides.github.com/activities/hello-world/) & [markdown](https://markdown.tw/)
+學習使用[GitHub](https://guides.github.com/activities/hello-world/) & [Markdown](https://markdown.tw/)
 
 ### STEP1. Created an open source repository(建立一個專案) 
 
