@@ -3,7 +3,7 @@ just another repository
 
 Hi ~ My name is PeiHsin .I just practice GitHub:)))
 
-STEP1. Created an open source repository(建立一個專案)\n
+STEP1. Created an open source repository(建立一個專案)
 點擊 new repository 
 -> 輸入 repository name (ex.Hello-World) 
 -> 選取 `Initialize this repository with a README` 
