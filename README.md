@@ -1,6 +1,6 @@
 # Hello-World #
 
-學習使用GitHub教學手冊
+學習使用GitHub&Markdown
 
 ### STEP1. Created an open source repository(建立一個專案) 
 
@@ -28,3 +28,4 @@
 ```
 -> 點擊 Merge pull request -> 點擊 Confirm Merge -> 點擊 Delete branch
 ```
+[markdown] :https://markdown.tw/  "Markdown"
