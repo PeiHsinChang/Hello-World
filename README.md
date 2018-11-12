@@ -1,4 +1,4 @@
-# Hello-World #
+# 練習我的GitHub和Markdown #
 
 學習使用[GitHub](https://guides.github.com/activities/hello-world/) & [Markdown](https://markdown.tw/)
 
