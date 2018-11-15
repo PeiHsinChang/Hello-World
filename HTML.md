@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8" />
-    //如果不加上可能會出現亂碼
+    <!--宣告編碼為UTF-8-->
+    <meta charset="UTF-8" >
     <title></title>
   </head>
   <body>
-    
+  <h1>Hello World</h1>  
   </body>
 </html>
 ```
