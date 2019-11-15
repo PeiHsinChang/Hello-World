@@ -26,4 +26,23 @@ HTML有基本的標籤
 
 另外常用的標籤有```<div> <span> <p> ```及```<a>```
  
-  
+20180829 彭彭上的第一堂課中 我又增加了一些筆記在這裡
+
+shift + tab 減少縮排
+
+整行縮排ctrl + /
+
+關於什麼時候會換行:
+
+1.程式碼中的換行不重要
+
+2.標籤的顯示模式(display) (標籤本身)
+  2.1 inline 行內 (不會換行) a img span
+  2.2 block  區塊 (自動換行) h2 table div
+3.隨時可以加入<br/>換行
+
+相容性
+用StatCounter查各家瀏覽器使用率
+1.Chrome 2.Safari 3.Firefox 4.Edge 5.IE 11
+
+ 
